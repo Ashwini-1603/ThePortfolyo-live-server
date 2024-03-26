@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ThePortfolyo-live-server/static/css/main.ec7514dd.css",
+    "main.js": "/ThePortfolyo-live-server/static/js/main.3f254b21.js",
+    "index.html": "/ThePortfolyo-live-server/index.html",
+    "main.ec7514dd.css.map": "/ThePortfolyo-live-server/static/css/main.ec7514dd.css.map",
+    "main.3f254b21.js.map": "/ThePortfolyo-live-server/static/js/main.3f254b21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7514dd.css",
+    "static/js/main.3f254b21.js"
+  ]
+}
